@@ -1,10 +1,13 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Mar 15 2021
+@author: George Yiasemis
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib
 from matplotlib.colors import ListedColormap
-# Uncomment if your compiler can run it
-# matplotlib.use('TkAgg')
-
 
 class GridWorld(object):
 
