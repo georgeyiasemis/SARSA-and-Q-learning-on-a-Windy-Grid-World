@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Mar 15 2021
+@author: George Yiasemis
+"""
+
 import numpy as np
 import random
 from environment import *
