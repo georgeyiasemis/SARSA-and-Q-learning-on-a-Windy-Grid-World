@@ -2,7 +2,7 @@
 # SARSA and Q-learning on a Windy Grid World
 
 ## About the Project
-SARSA and Q-learning Reinforcement Learning methods on a Windy Grid World using PyTorch.
+SARSA and Q-learning Reinforcement Learning methods on a Windy Grid World using PyTorch. The picture below shows the state space. Arrows represent the strength of the wind flowing upwards in each column.
 
 ![windygrid](https://user-images.githubusercontent.com/71031687/113525028-d9756980-95b2-11eb-9551-15da6b73f0c2.png)
 
