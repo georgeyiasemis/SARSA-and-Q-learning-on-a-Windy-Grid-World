@@ -1,3 +1,4 @@
+
 # SARSA and Q-learning on a Windy Grid World
 
 ## About the Project
@@ -9,11 +10,9 @@ SARSA and Q-learning Reinforcement Learning methods on a Windy Grid World using 
 
 SARSA and Q-learning performance experiment:
 
-![trace_qlearning](https://user-images.githubusercontent.com/71031687/113525059-12add980-95b3-11eb-87ef-6fb6ef29087b.png)
+![trace_sarsa](https://user-images.githubusercontent.com/71031687/113525121-6ddfcc00-95b3-11eb-9bc9-c949a3c1378d.png)
 
-![trace_sarsa](https://user-images.githubusercontent.com/71031687/113525060-13467000-95b3-11eb-9ccc-c0440db1fcf7.png)
-
-
+![trace_qlearning](https://user-images.githubusercontent.com/71031687/113525122-6e786280-95b3-11eb-9b9f-ef1b9566f203.png)
 
 ## Prerequisites
 * ```pytorch```
